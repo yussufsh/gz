@@ -1,0 +1,27 @@
+{
+  "translations": [
+    {
+      "translation": "This is a good way to eat"
+    }
+  ],
+  "word_count": 7,
+  "character_count": 31
+}
+{}
+ * Serving Flask app "groundzeroapis" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 316-686-595
+129.42.208.184 - - [24/Aug/2018 12:03:15] "[37mOPTIONS /location/Salcete/requests HTTP/1.1[0m" 200 -
+129.42.208.184 - - [24/Aug/2018 12:03:15] "[37mOPTIONS /location/Goa/requests HTTP/1.1[0m" 200 -
+129.42.208.184 - - [24/Aug/2018 12:03:15] "[37mGET /location/Salcete/requests HTTP/1.1[0m" 200 -
+129.42.208.184 - - [24/Aug/2018 12:03:16] "[37mGET /location/Goa/requests HTTP/1.1[0m" 200 -
+129.42.208.184 - - [24/Aug/2018 12:03:26] "[37mOPTIONS /location/Goa/requests HTTP/1.1[0m" 200 -
+129.42.208.184 - - [24/Aug/2018 12:03:27] "[37mGET /location/Goa/requests HTTP/1.1[0m" 200 -
+129.42.208.184 - - [24/Aug/2018 12:03:37] "[37mOPTIONS /location/Goa/requests HTTP/1.1[0m" 200 -
+129.42.208.184 - - [24/Aug/2018 12:03:38] "[37mGET /location/Goa/requests HTTP/1.1[0m" 200 -
